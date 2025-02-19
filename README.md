@@ -1,3 +1,3 @@
 # 𝐖𝐄𝐁-𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆
-ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴛʀᴀᴄᴋꜱ ᴍʏ ᴘʀᴏɢʀᴇꜱꜱ ɪɴ ʟᴇᴀʀɴɪɴɢ ᴡᴇʙ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ. ɪᴛ ᴄᴏɴᴛᴀɪɴꜱ ᴠᴀʀɪᴏᴜꜱ ᴘʀᴏᴊᴇᴄᴛꜱ, ᴇxᴇʀᴄɪꜱᴇꜱ, ᴀɴᴅ ᴄᴏᴅᴇ ꜱɴɪᴘᴘᴇᴛꜱ ɪ’ᴠᴇ ᴡᴏʀᴋᴇᴅ ᴏɴ ᴛᴏ ᴇɴʜᴀɴᴄᴇ ᴍʏ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴋɪʟʟꜱ.
-ꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴇxᴘʟᴏʀᴇ ᴀɴᴅ ᴄᴏɴᴛʀɪʙᴜᴛᴇ! ɪ’ᴍ ᴄᴏɴꜱᴛᴀɴᴛʟʏ ᴜᴘᴅᴀᴛɪɴɢ ɪᴛ ᴡɪᴛʜ ɴᴇᴡ ᴄʜᴀʟʟᴇɴɢᴇꜱ ᴀɴᴅ ꜱᴏʟᴜᴛɪᴏɴꜱ.
+THIS REPOSITORY TRACKS MY PROGRESS IN LEARNING WEB PROGRAMMING. IT CONTAINS VARIOUS PROJECTS, EXERCISES, AND CODE SNIPPETS I’VE WORKED ON TO ENHANCE MY WEB DEVELOPMENT SKILLS.
+FEEL FREE TO EXPLORE AND CONTRIBUTE! I’M CONSTANTLY UPDATING IT WITH NEW CHALLENGES AND SOLUTIONS.
