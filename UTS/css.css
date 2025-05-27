@@ -1,0 +1,33 @@
+/* ... (CSS body, main-header, main-footer, sidebar dari beranda.html SAMA PERSIS) ... */
+        /* Khusus untuk halaman item-card */
+        .content-title-section {
+            font-size: 1.4rem; /* Ukuran judul Portofolio/Prestasi/Sosmed */
+            font-weight: bold;
+            color: #000000; /* Hitam */
+            margin-bottom: 20px;
+            padding-bottom: 8px;
+            border-bottom: 3px solid #FFA500; /* Garis bawah oranye */
+            display: inline-block; /* Agar border hanya selebar teks */
+        }
+        .item-card {
+            background-color: #fff;
+            border: 1px solid #E0E0E0; /* Border abu-abu muda */
+            border-radius: 0px; /* Tidak ada lengkungan, sesuai gambar */
+            padding: 10px; /* Padding dalam card */
+            margin-bottom: 20px;
+            text-align: center; /* Teks dan gambar di tengah */
+        }
+        .item-card img {
+            width: 100%; /* Gambar responsif */
+            max-height: 220px; /* Sesuaikan dengan tinggi gambar di contoh */
+            object-fit: contain; /* Agar gambar tidak terdistorsi */
+            margin-top: 5px;
+            margin-bottom: 10px;
+            border: 1px solid #F0F0F0; /* Border sangat tipis di gambar jika ada */
+        }
+        .item-card h5 { /* Judul di dalam card */
+            margin-bottom: 0;
+            font-size: 0.95rem; /* Ukuran font judul item */
+            font-weight: bold;
+            color: #333333;
+        }
